@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kushen De Silva</h1>
 <h3 align="center">My Personal Web Application 💻</h3>
 
-- 👨‍💻 All of my projects are available at **https://kushenofficial.web.app**
+- 👨‍💻 All of my projects are available at **https://kushen.me**
 
 - 📫 How to reach me **kushenthimira@gmail.com**
 
