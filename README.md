@@ -1,7 +1,8 @@
 <h1 align="center">Hi <img style="margin-bottom:-3px;" src="https://images.squarespace-cdn.com/content/v1/5b5587ed8ab722298af0921a/4d51fa35-1bcb-4385-9be6-03f330e5dad6/ABOUT-US-JOHN-WAVING.gif" width="40">, I'm Kushen De Silva</h1>
-<p align="center"><em><a href="https://kushen.me">My Portfolio..<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></a> 
+<p align="center"><em>My Portfolio..<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p><br>
 
+- 🖧 Project available at - **https://kushen.me**
 - 🌐 Personal Website - **https://kushen.tech**
 - 📫 How to reach me - **kushendesilva@gmail.com**
 
