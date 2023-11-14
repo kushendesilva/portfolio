@@ -1,9 +1,9 @@
 ## 💻 My Portfolio
 
-[![Project](https://img.shields.io/badge/Project-008080?style=for-the-badge&logo=GoogleCloud&logoColor=white)](https://kushen.me)
-[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://kushen.tech)
-[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://kushen.me)
-[![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kushendesilva@gmail.com)
+[![Project](https://img.shields.io/badge/Project-008080?style=for-the-badge&logo=GoogleCloud&logoColor=white)](https://portfolio.dsilva.tech)
+[![Website](https://img.shields.io/badge/Personal_Website-008080?style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://dsilva.tech)
+[![Portfolio](https://img.shields.io/badge/Portfolio-008080?style=for-the-badge&logo=Files&logoColor=white)](https://portfolio.dsilva.tech)
+[![Email](https://img.shields.io/badge/Email-008080?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:kushen@dsilva.tech)
 
 <!-- [![APK](https://img.shields.io/badge/APK-008080?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://github.com/kushendesillva/pickngo/releases/download/v2.0.0/pickngo.apk) -->
 
@@ -56,4 +56,4 @@
 
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-000000?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://buymeacoffee.com/kushendesilva) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-000000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/kushendesilva)
 
-<p>&copy; <a href="https://kushen.tech">Kushen De Silva</a></p>
+<p>&copy; <a href="https://dsilva.tech">Kushen De Silva</a></p>
